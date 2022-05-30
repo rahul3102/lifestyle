@@ -20,7 +20,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="index.html" class="navbar-brand">Lifestyle Store</a>
+                <a href="index.php" class="navbar-brand">Lifestyle Store</a>
             </div>
             
             <div class="collaspe navbar-collapse" id="mynavbar">
